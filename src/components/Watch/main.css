@@ -1,0 +1,18 @@
+.youtubeOut{
+    background-color: #181818;
+    height: 100vh;
+}
+
+.watchiframe{
+    border: inherit;
+    width: 55%;
+    height: 55%;
+    margin-top: 4%;
+    margin-left: 2%;
+}
+
+.watchView{
+    color: grey;
+    font-size: 14px;
+    margin-left: 2%;
+}

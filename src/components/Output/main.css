@@ -1,0 +1,25 @@
+.youtubeOutput{
+    display: grid;
+    grid-template-columns: 5fr 5fr 5fr 5fr;
+    background-color: #181818;
+}
+
+.youtubeName{
+    color: white;
+    margin-left: 2%;
+}
+
+.channellName{
+    font-size: 16px;
+    color: grey;
+    margin-left: 2%;
+}
+
+.youtubelink{
+    text-decoration: none;
+}
+
+.youtubeiframe{
+    border: inherit;
+    margin-top: 3%;
+}
